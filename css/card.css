@@ -37,3 +37,7 @@ Habilitar para que funcione hover en pag 1.4.2
     text-align: justify;
 }
 
+.card-text.quoted-text{
+    margin-left: 1rem;
+}
+
