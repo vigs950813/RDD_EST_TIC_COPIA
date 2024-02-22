@@ -41,3 +41,11 @@ Habilitar para que funcione hover en pag 1.4.2
     margin-left: 1rem;
 }
 
+.card-text.quoted-image{
+    text-align: left;
+}
+
+.card-text.quoted-video{
+    text-align: left;
+}
+
