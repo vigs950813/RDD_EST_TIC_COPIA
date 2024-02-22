@@ -49,3 +49,8 @@ Habilitar para que funcione hover en pag 1.4.2
     text-align: left;
 }
 
+.card-text.quoted-material{
+    text-align: justify;
+}
+
+
