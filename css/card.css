@@ -46,11 +46,11 @@ Habilitar para que funcione hover en pag 1.4.2
 }
 
 .card-text.quoted-video{
-    text-align: left;
+    margin-left: 1rem;
 }
 
 .card-text.quoted-material{
-    text-align: justify;
+    margin-left: 1rem;
 }
 
 
